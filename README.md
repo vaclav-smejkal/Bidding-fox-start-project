@@ -1,3 +1,16 @@
+<h1>Jak zprovoznit aplikaci: </h1>
+<p>1. krok je potřeba vytvořit MySQL DB start-project</p>
+<p>2. krok php artisan migrate</p>
+<p>3. krok php artisan db:seed --class=LogsTableSeeder </p>
+<p>4. krok php artisan serve </p>
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
